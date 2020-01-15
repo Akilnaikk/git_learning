@@ -1,4 +1,13 @@
 sam changes
 test data
+<<<<<<< HEAD
 
 eh  dfl dfh
+=======
+ sdljf 
+sdf ds
+ fds
+f
+dfh hsfsh fhsk
+ hfh
+>>>>>>> 29e523827478f919ae68746e94f3813bb061797a
